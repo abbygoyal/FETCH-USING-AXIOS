@@ -4,7 +4,7 @@ Fetching Data from API Using Axios
 
 ## Live Project Link
 
-[Fetching Data from API](https://#)
+[Fetching Data from API](https://fetch-using-axios-react.netlify.app/)
 
 # How to fork and clone
 
